@@ -31,8 +31,7 @@ _You only need a wrapper element and some <a href="https://sbachinin.github.io/p
 &nbsp;&nbsp; 🔦 Team's path within a tournament is <a href="https://sbachinin.github.io/playoffs-site/highlight-history">highlighted</a> on click (if you want)  
 &nbsp;&nbsp; 👯 Multiple instances of playoffs on a page  
 &nbsp;&nbsp; 📱 Can be easily tuned for <a href="https://sbachinin.github.io/playoffs-site/mobile">mobile</a> devices  
-&nbsp;&nbsp; 📺 "<a href="https://sbachinin.github.io/playoffs-site/fullscreen">Fullscreen</a>" (full browser viewport) mode  
-&nbsp;&nbsp; 📜 <a href="https://sbachinin.github.io/playoffs-site/scroll-modes">Vertical scroll</a> can work with mousewheel or buttons or both
+&nbsp;&nbsp; 📺 "<a href="https://sbachinin.github.io/playoffs-site/fullscreen">Fullscreen</a>" (full browser viewport) mode
 
 <br>
 
@@ -40,14 +39,15 @@ _You only need a wrapper element and some <a href="https://sbachinin.github.io/p
 
 * Sizes, margins and fonts are quite <a href="https://sbachinin.github.io/playoffs-site/fonts-colors-sizes">flexible</a>
 * Navigation between rounds can be <a href="https://sbachinin.github.io/playoffs-site/adjust-nav-buttons">adjusted</a> or <a href="https://sbachinin.github.io/playoffs-site/external-navigation">built from scratch</a>  
+* <a href="https://sbachinin.github.io/playoffs-site/scroll-modes">Vertical scroll</a> can work with mousewheel or buttons or both  
 * You can <a href="https://sbachinin.github.io/playoffs-site/inject-markup">inject</a> your own markup here and there  
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you may choose to render matches yourself and use playoffs only as a positioning mechanism
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alt text](https://github.com/sbachinin/playoffs/blob/main/images/your-match-element.jpg?raw=true)
 
-* You can specify what happens when a match (or a side of a match) is <a href="https://sbachinin.github.io/playoffs-site/click-handlers">clicked</a>  
-* You may opt to display a specific <a href="https://sbachinin.github.io/playoffs-site/n-rounds">number of rounds</a> at a time
+* You can attach <a href="https://sbachinin.github.io/playoffs-site/click-handlers">click handlers</a> to matches (or their sides)  
+* It's possible to specify a <a href="https://sbachinin.github.io/playoffs-site/rounds-count">number of rounds</a> visible at a time
 
 <br>
 
